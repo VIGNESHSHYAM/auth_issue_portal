@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@trpc/server": "^10.45.2",
+    "@types/express": "^4.17.21",
+    "bcryptjs": "^2.4.3",
+    "cookie-session": "^2.1.0",
+    "cors": "^2.8.5",
+    "moongose": "^1.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cookie-session": "^2.0.49",
+    "@types/cors": "^2.8.17"
+  }
+}
